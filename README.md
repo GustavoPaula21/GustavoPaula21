@@ -1,7 +1,7 @@
 ### Sejam bem vindos ao meu perfil 👋
-Estudo na E.E. Paulo Virgínio
-Eu estou estudando na Alura
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Estudo na E.E. Paulo Virgínio.
+Eu estou estudando na Alura.
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 <!--
 **GustavoPaula21/GustavoPaula21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
